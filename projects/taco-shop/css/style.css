@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(127, 136, 136);
+    padding-left: 50px;
+    padding-bottom: 500px;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+    border: 1px solid #eee;
+    font-family: "Courier New", Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
